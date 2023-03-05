@@ -1,0 +1,55 @@
+.modal_question {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: capitalize;
+    margin-top: 92px;
+    text-align: center;
+}
+
+.btn_close {
+    background-color: rgb(52, 53, 132);
+    color: yellow;
+    font-size: 20px;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+}
+
+.btn_close:hover{
+    opacity: 0.9;
+}
+
+.modal_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal_input {
+    margin-top: 93px;
+    height: 53px;
+    width: 100%;
+    border: 3px solid #9f9ff5;
+    padding: 14px 16px;
+    background: #dee1e3;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.btn_submit{
+    background-color: rgb(223, 223, 238);
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px 0;
+    width: 50%;
+    background-color: rgb(52, 53, 132);
+    color: yellow;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.btn_submit:hover{
+    opacity: 0.9;
+}

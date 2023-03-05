@@ -1,0 +1,28 @@
+.statistic_board-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.statistic_info{
+    background-color: #12551c;
+    border: 1px solid #ccc;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.statistic_title{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 400;
+    padding: 50px 0;
+    color: white;
+}
+
+.static_page{
+    background-color: black;
+}
+

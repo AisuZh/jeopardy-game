@@ -1,0 +1,2037 @@
+{
+    "id": 5,
+    "title": "nature",
+    "clues_count": 203,
+    "clues": [
+        {
+            "id": 59459,
+            "answer": "Poisonous",
+            "question": "The spots on a spotted salamander are a warning to predators that the salamander is this",
+            "value": 100,
+            "airdate": "1999-04-26T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2355,
+            "invalid_count": null
+        },
+        {
+            "id": 59465,
+            "answer": "Beat its wings",
+            "question": "A bee does it about 200 times a second; a mosquito, 500 times a second",
+            "value": 200,
+            "airdate": "1999-04-26T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2355,
+            "invalid_count": null
+        },
+        {
+            "id": 59471,
+            "answer": "Plant kingdom",
+            "question": "This kingdom is commonly divided into vascular, including cycads, \u0026 nonvascular, including hornworts",
+            "value": 300,
+            "airdate": "1999-04-26T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2355,
+            "invalid_count": null
+        },
+        {
+            "id": 59477,
+            "answer": "Spiral",
+            "question": "The whelk, a carnivorous marine gastropod, has a shell of this shape",
+            "value": 400,
+            "airdate": "1999-04-26T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2355,
+            "invalid_count": null
+        },
+        {
+            "id": 59483,
+            "answer": "Starch",
+            "question": "In a popular science experiment iodine on a piece of potato turns it dark, indicating this substance is present",
+            "value": 500,
+            "airdate": "1999-04-26T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2355,
+            "invalid_count": null
+        },
+        {
+            "id": 69936,
+            "answer": "Blood",
+            "question": "Male mosquitos usually feed on nectar; it's the female mosquitos who usually feed on this substance",
+            "value": 100,
+            "airdate": "1999-10-28T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2149,
+            "invalid_count": null
+        },
+        {
+            "id": 69942,
+            "answer": "Shell",
+            "question": "The red-gilled nudibranch is a snail that, unlike the periwinkle or limpet, lacks one of these",
+            "value": 200,
+            "airdate": "1999-10-28T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2149,
+            "invalid_count": null
+        },
+        {
+            "id": 69948,
+            "answer": "Limes",
+            "question": "This green fruit's juice, which has a high level of citric acid, was used by the British navy to prevent scurvy",
+            "value": 300,
+            "airdate": "1999-10-28T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2149,
+            "invalid_count": null
+        },
+        {
+            "id": 69954,
+            "answer": "Pollen",
+            "question": "These airborne grains from trees, grass or weeds may produce hay fever attacks",
+            "value": 400,
+            "airdate": "1999-10-28T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2149,
+            "invalid_count": null
+        },
+        {
+            "id": 69960,
+            "answer": "Glass snake",
+            "question": "This legless lizard is named for its fragility",
+            "value": 500,
+            "airdate": "1999-10-28T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2149,
+            "invalid_count": null
+        },
+        {
+            "id": 91145,
+            "answer": "hummingbirds",
+            "question": "These birds, which usually feed while hovering, flap their wings at a rate of 60-75 times a second",
+            "value": 200,
+            "airdate": "2002-09-17T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3074,
+            "invalid_count": null
+        },
+        {
+            "id": 91151,
+            "answer": "elephant",
+            "question": "When frightened or excited, this largest African mammal may make a loud, shrill sound called trumpeting",
+            "value": 400,
+            "airdate": "2002-09-17T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3074,
+            "invalid_count": null
+        },
+        {
+            "id": 91157,
+            "answer": "grasshopper",
+            "question": "The Mormon cricket is a long-horned type of this jumper",
+            "value": 600,
+            "airdate": "2002-09-17T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3074,
+            "invalid_count": null
+        },
+        {
+            "id": 91163,
+            "answer": "cactus",
+            "question": "The Organ Pipe species of this desert plant is named for the long stems which resemble the pipes of an organ",
+            "value": null,
+            "airdate": "2002-09-17T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3074,
+            "invalid_count": null
+        },
+        {
+            "id": 91169,
+            "answer": "a toucan",
+            "question": "(Sarah of the Clue Crew reports from Belize.)  Popularly called a bill bird, this is the national bird of Belize",
+            "value": 1000,
+            "airdate": "2002-09-17T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3074,
+            "invalid_count": null
+        },
+        {
+            "id": 100674,
+            "answer": "water",
+            "question": "A succulent can be any plant with fleshy, thick tissues adapted to store this",
+            "value": 200,
+            "airdate": "2005-04-04T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 255,
+            "invalid_count": null
+        },
+        {
+            "id": 100680,
+            "answer": "a rodent",
+            "question": "The aye-aye, a primate, was once classified in this order due to its sloping incisors \u0026 incessant gnawing",
+            "value": 400,
+            "airdate": "2005-04-04T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 255,
+            "invalid_count": null
+        },
+        {
+            "id": 100686,
+            "answer": "wings",
+            "question": "Ants belong to the insect order Hymenoptera, which means \"membrane\" this",
+            "value": 600,
+            "airdate": "2005-04-04T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 255,
+            "invalid_count": null
+        },
+        {
+            "id": 100692,
+            "answer": "the tundra",
+            "question": "Much of this cold, treeless plain in the Arctic is covered by a thick growth of lichens",
+            "value": 800,
+            "airdate": "2005-04-04T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 255,
+            "invalid_count": null
+        },
+        {
+            "id": 100698,
+            "answer": "moth",
+            "question": "The yucca species of this insect lays its eggs in the seed-producing organs of the yucca plant",
+            "value": 1000,
+            "airdate": "2005-04-04T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 255,
+            "invalid_count": null
+        },
+        {
+            "id": 101844,
+            "answer": "the sunflower",
+            "question": "This easy-to-grow state flower of Kansas can measure a foot across \u0026 produce nearly 1,000 seeds",
+            "value": 200,
+            "airdate": "2005-02-08T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 141,
+            "invalid_count": null
+        },
+        {
+            "id": 101850,
+            "answer": "a mole",
+            "question": "This animal seen here spends most of its time underground digging for earthworms",
+            "value": 400,
+            "airdate": "2005-02-08T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 141,
+            "invalid_count": null
+        },
+        {
+            "id": 101856,
+            "answer": "a lizard",
+            "question": "The basilisk, known for its ability to walk on water, is a type of this creature",
+            "value": 600,
+            "airdate": "2005-02-08T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 141,
+            "invalid_count": null
+        },
+        {
+            "id": 101862,
+            "answer": "fossil fuels",
+            "question": "It's the alliterative term for coal, oil \u0026 natural gas made from the remains of living organisms",
+            "value": null,
+            "airdate": "2005-02-08T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 141,
+            "invalid_count": null
+        },
+        {
+            "id": 101868,
+            "answer": "a loofah",
+            "question": "When young, this sponge gourd, seen here, can be eaten like squash; when old \u0026 dry it can scrub your body",
+            "value": 1000,
+            "airdate": "2005-02-08T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 141,
+            "invalid_count": null
+        },
+        {
+            "id": 112599,
+            "answer": "sweat glands",
+            "question": "What was nature thinking putting these glands mainly on the paw pads, so dogs have to cool off by panting",
+            "value": 200,
+            "airdate": "2007-07-02T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1938,
+            "invalid_count": null
+        },
+        {
+            "id": 112605,
+            "answer": "wading birds",
+            "question": "Sandpipers \u0026 snipes are shorebirds, also called these for the way they move through shallow water",
+            "value": 400,
+            "airdate": "2007-07-02T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1938,
+            "invalid_count": null
+        },
+        {
+            "id": 112611,
+            "answer": "chaparral",
+            "question": "This type of \"high\" Southwestern brush, like the scrub oak, depends on fire to renew its growth",
+            "value": 600,
+            "airdate": "2007-07-02T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1938,
+            "invalid_count": null
+        },
+        {
+            "id": 112617,
+            "answer": "seahorse",
+            "question": "Named for a land animal, this \"sea\" creature has rings of body armor \u0026 a prehensile tale [sic]",
+            "value": 800,
+            "airdate": "2007-07-02T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1938,
+            "invalid_count": null
+        },
+        {
+            "id": 112623,
+            "answer": "boatman",
+            "question": "The insect seen here is called the \"water\" type of this word that also follows \"Volga\" in song",
+            "value": 1000,
+            "airdate": "2007-07-02T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1938,
+            "invalid_count": null
+        },
+        {
+            "id": 124968,
+            "answer": "the rat",
+            "question": "The Norway type of this infuriating rodent actually originated in Asia",
+            "value": 200,
+            "airdate": "2007-10-11T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2123,
+            "invalid_count": null
+        },
+        {
+            "id": 124974,
+            "answer": "a blue whale",
+            "question": "(Jimmy of the Clue Crew reports from inside a skeleton at UC Santa Cruz's Long Marine Lab.)  The Seymour Center at the Long Marine Lab has the world's largest displayed skeleton of this mammal, including an 18-foot jawbone",
+            "value": 400,
+            "airdate": "2007-10-11T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2123,
+            "invalid_count": null
+        },
+        {
+            "id": 124980,
+            "answer": "a frog",
+            "question": "The eyes of these croaking critters usually bulge, but they retract \u0026 push down on the mouth to help in swallowing",
+            "value": 600,
+            "airdate": "2007-10-11T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2123,
+            "invalid_count": null
+        },
+        {
+            "id": 124986,
+            "answer": "a shell",
+            "question": "The hermit crab's abdomen twists to one side so it tucks neatly into the animal's home, usually this",
+            "value": 800,
+            "airdate": "2007-10-11T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2123,
+            "invalid_count": null
+        },
+        {
+            "id": 124992,
+            "answer": "crabapples",
+            "question": "The New York Botanical Garden has a collection of trees bearing these \"apples\" 2 inches or less in diameter",
+            "value": 1000,
+            "airdate": "2007-10-11T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2123,
+            "invalid_count": null
+        },
+        {
+            "id": 134849,
+            "answer": "wasps",
+            "question": "Yellow jackets are a social type of this stinging insect",
+            "value": 200,
+            "airdate": "2010-04-13T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3364,
+            "invalid_count": null
+        },
+        {
+            "id": 134855,
+            "answer": "cheetahs",
+            "question": "During a chase, these cats take about 3 1/2 strides per second, though the sprints only last about 300 yards",
+            "value": 400,
+            "airdate": "2010-04-13T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3364,
+            "invalid_count": null
+        },
+        {
+            "id": 134861,
+            "answer": "vertebrae",
+            "question": "Despite its length, the neck of the giraffe has only 7 of these bones, but they are elongated",
+            "value": 600,
+            "airdate": "2010-04-13T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3364,
+            "invalid_count": null
+        },
+        {
+            "id": 134867,
+            "answer": "a brown recluse",
+            "question": "(Jimmy of the Clue Crew shows some pictures of spiders on the monitor.)  Venomous spiders include the brown widow, recognized by an hourglass-shaped mark; a spider with a violin-shaped mark tells you it's this poisonous species",
+            "value": 800,
+            "airdate": "2010-04-13T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3364,
+            "invalid_count": null
+        },
+        {
+            "id": 134873,
+            "answer": "dolphins",
+            "question": "The killer whale is actually this largest member of this family",
+            "value": 1000,
+            "airdate": "2010-04-13T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3364,
+            "invalid_count": null
+        },
+        {
+            "id": 136689,
+            "answer": "bat",
+            "question": "The hoary species of this mammal has a wingspan of about 16 inches \u0026 is one of the largest of its kind in North America",
+            "value": 200,
+            "airdate": "2010-01-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3282,
+            "invalid_count": null
+        },
+        {
+            "id": 136695,
+            "answer": "a porcupine",
+            "question": "The fisher, a type of weasel, avoids this rodent's quills by attacking its face \u0026 flipping it over on its back",
+            "value": 400,
+            "airdate": "2010-01-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3282,
+            "invalid_count": null
+        },
+        {
+            "id": 136701,
+            "answer": "spawn",
+            "question": "Fish that are anadromous migrate from the sea to freshwater rivers to do this",
+            "value": 600,
+            "airdate": "2010-01-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3282,
+            "invalid_count": null
+        },
+        {
+            "id": 136707,
+            "answer": "a coral snake",
+            "question": "(Kelly of the Clue Crew shows two similar-looking snakes on the monitor.) The common mnemonic \"Red touch black, friend of jack; red touch yellow, kill a fellow\" helps distinguish a harmless scarlet king snake from this extremely poisonous snake",
+            "value": null,
+            "airdate": "2010-01-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3282,
+            "invalid_count": null
+        },
+        {
+            "id": 136712,
+            "answer": "Papua New Guinea",
+            "question": "The world's largest butterfly, Queen Alexandra's birdwing, inhabits the rainforest of this island nation, PNG",
+            "value": 1000,
+            "airdate": "2010-01-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3282,
+            "invalid_count": null
+        },
+        {
+            "id": 156811,
+            "answer": "teeth",
+            "question": "Sharks can have as many as 5 rows of these, which fall out \u0026 grow back",
+            "value": 200,
+            "airdate": "2013-01-29T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 4067,
+            "invalid_count": null
+        },
+        {
+            "id": 156817,
+            "answer": "a king snake",
+            "question": "These large North American snakes get their name from their habit of feeding on other snake species; long live the...",
+            "value": 400,
+            "airdate": "2013-01-29T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 4067,
+            "invalid_count": null
+        },
+        {
+            "id": 156823,
+            "answer": "a parasite",
+            "question": "The world's largest flower, the Rafflesia, which has no stems or leaves, is this type of plant that lives off a host",
+            "value": 600,
+            "airdate": "2013-01-29T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 4067,
+            "invalid_count": null
+        },
+        {
+            "id": 156829,
+            "answer": "a gila monster",
+            "question": "Growing up to two feet long, this desert dweller is the largest lizard native to the United States",
+            "value": 800,
+            "airdate": "2013-01-29T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 4067,
+            "invalid_count": null
+        },
+        {
+            "id": 156835,
+            "answer": "cones",
+            "question": "In trees such as pines \u0026 firs, the seeds form in these",
+            "value": 1000,
+            "airdate": "2013-01-29T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 4067,
+            "invalid_count": null
+        },
+        {
+            "id": 171463,
+            "answer": "a dandelion",
+            "question": "It's the weed seen here spreading more little ones",
+            "value": 200,
+            "airdate": "2014-12-01T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 4738,
+            "invalid_count": null
+        },
+        {
+            "id": 171469,
+            "answer": "a rodent",
+            "question": "From the Latin for \"gnawing\", it's the order of mammals that includes mice \u0026 hamsters",
+            "value": 400,
+            "airdate": "2014-12-01T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 4738,
+            "invalid_count": null
+        },
+        {
+            "id": 171474,
+            "answer": "nocturnal",
+            "question": "Most bats are this 9-letter adjective, so they don't mind if you call them at 2 in the morning",
+            "value": 600,
+            "airdate": "2014-12-01T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 4738,
+            "invalid_count": null
+        },
+        {
+            "id": 171479,
+            "answer": "bamboo",
+            "question": "While not all grow so quickly, one of these giant, hollow, woody grasses grew 3 feet in 1 day",
+            "value": 800,
+            "airdate": "2014-12-01T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 4738,
+            "invalid_count": null
+        },
+        {
+            "id": 171484,
+            "answer": "amber",
+            "question": "As seen here, fossilized resin, called this, can preserve an insect forever",
+            "value": 1000,
+            "airdate": "2014-12-01T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 4738,
+            "invalid_count": null
+        },
+        {
+            "id": 188216,
+            "answer": "a tortoise",
+            "question": "The life span for the desert one of these shelled reptiles is about 50 to 80 years",
+            "value": 200,
+            "airdate": "2018-05-03T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 5971,
+            "invalid_count": null
+        },
+        {
+            "id": 188222,
+            "answer": "an electric eel",
+            "question": "This South American fish can grow 9 feet long \u0026 deliver a jolting 650 volts",
+            "value": 400,
+            "airdate": "2018-05-03T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 5971,
+            "invalid_count": null
+        },
+        {
+            "id": 188228,
+            "answer": "firefox",
+            "question": "About the size of a large house cat, the red panda also goes by this name, known to users of Mozilla",
+            "value": 600,
+            "airdate": "2018-05-03T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 5971,
+            "invalid_count": null
+        },
+        {
+            "id": 188234,
+            "answer": "a butterfly",
+            "question": "The Queen Alexandra's birdwing of Papua New Guinea isn't a bird at all but the world's largest one of these",
+            "value": 800,
+            "airdate": "2018-05-03T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 5971,
+            "invalid_count": null
+        },
+        {
+            "id": 188240,
+            "answer": "pheromones",
+            "question": "To lead others to a food source, an ant will lay down a scent trail of these chemicals",
+            "value": 1000,
+            "airdate": "2018-05-03T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 5971,
+            "invalid_count": null
+        },
+        {
+            "id": 26945,
+            "answer": "cactus",
+            "question": "Night-blooming cereus, a type of this spiny plant, usually flowers once a year \u0026 lasts one night",
+            "value": 300,
+            "airdate": "1992-07-07T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6783,
+            "invalid_count": null
+        },
+        {
+            "id": 4,
+            "answer": "National Audubon Society",
+            "question": "Wardens of this org. patrol more than 1 mil. acres in the U.S., primarily to protect birds",
+            "value": 100,
+            "airdate": "1985-05-30T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7599,
+            "invalid_count": null
+        },
+        {
+            "id": 8,
+            "answer": "water",
+            "question": "A birch tree may lose 900 gal. of this in a summer's day",
+            "value": 200,
+            "airdate": "1985-05-30T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7599,
+            "invalid_count": null
+        },
+        {
+            "id": 12,
+            "answer": "sand",
+            "question": "Surprisingly, this only covers about 10 to 20% of most deserts",
+            "value": 300,
+            "airdate": "1985-05-30T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7599,
+            "invalid_count": null
+        },
+        {
+            "id": 17,
+            "answer": "wasps",
+            "question": "Chinese invented paper after watching these build their paperlike nests",
+            "value": 400,
+            "airdate": "1985-05-30T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7599,
+            "invalid_count": null
+        },
+        {
+            "id": 22,
+            "answer": "John Muir",
+            "question": "A redwood forest near S.F. is named for this naturalist who founded the Sierra Club in 1892",
+            "value": 500,
+            "airdate": "1985-05-30T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7599,
+            "invalid_count": null
+        },
+        {
+            "id": 530,
+            "answer": "beetle",
+            "question": "Insect such as giant stag, whose name means \"biter\", not Paul or Ringo",
+            "value": 100,
+            "airdate": "1985-01-08T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7601,
+            "invalid_count": null
+        },
+        {
+            "id": 536,
+            "answer": "terrarium",
+            "question": "A table-top enclosure for raising \u0026 observing plants or animals",
+            "value": 200,
+            "airdate": "1985-01-08T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7601,
+            "invalid_count": null
+        },
+        {
+            "id": 541,
+            "answer": "plumage",
+            "question": "All of a bird's feathers considered together",
+            "value": 300,
+            "airdate": "1985-01-08T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7601,
+            "invalid_count": null
+        },
+        {
+            "id": 3777,
+            "answer": "tulip",
+            "question": "Grown on less than 1% of the land of the Netherlands, it's their living symbol",
+            "value": 100,
+            "airdate": "1985-11-12T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3053,
+            "invalid_count": null
+        },
+        {
+            "id": 3783,
+            "answer": "mushrooms",
+            "question": "Mycophagists, including humans, are eaters of this kind of fungus",
+            "value": 200,
+            "airdate": "1985-11-12T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3053,
+            "invalid_count": null
+        },
+        {
+            "id": 3789,
+            "answer": "monarch",
+            "question": "The viceroy mimics this poisonous âroyalâ butterfly's appearance to avoid predators",
+            "value": 300,
+            "airdate": "1985-11-12T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3053,
+            "invalid_count": null
+        },
+        {
+            "id": 3795,
+            "answer": "mouse",
+            "question": "The most common one found in the home is âmus musculusâ, which may be where Walt got the initials",
+            "value": 400,
+            "airdate": "1985-11-12T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3053,
+            "invalid_count": null
+        },
+        {
+            "id": 3801,
+            "answer": "monsoon",
+            "question": "From Arabic âmawsimâ, meaning âseasonâ, it's the wind which changes direction with the seasons",
+            "value": 500,
+            "airdate": "1985-11-12T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3053,
+            "invalid_count": null
+        },
+        {
+            "id": 12287,
+            "answer": "blubber",
+            "question": "Like whales, manatees have a layer of this fat under their skin",
+            "value": 100,
+            "airdate": "1987-11-09T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 81,
+            "invalid_count": null
+        },
+        {
+            "id": 12293,
+            "answer": "bats",
+            "question": "Species of these include the mouse-eared, disk-winged, and fruit",
+            "value": 200,
+            "airdate": "1987-11-09T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 81,
+            "invalid_count": null
+        },
+        {
+            "id": 12299,
+            "answer": "the tongue",
+            "question": "On giraffes, this prehensile muscle can be 20 inches long",
+            "value": 300,
+            "airdate": "1987-11-09T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 81,
+            "invalid_count": null
+        },
+        {
+            "id": 12305,
+            "answer": "a bird",
+            "question": "If you spot a snipe, you've seen this type of creature",
+            "value": 400,
+            "airdate": "1987-11-09T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 81,
+            "invalid_count": null
+        },
+        {
+            "id": 12311,
+            "answer": "baboons",
+            "question": "Members of this, genus papio, are the largest of all monkeys",
+            "value": 500,
+            "airdate": "1987-11-09T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 81,
+            "invalid_count": null
+        },
+        {
+            "id": 25653,
+            "answer": "a rose",
+            "question": "This flower has been grown since ancient times for its foliage, fragrance \u0026 hips",
+            "value": 100,
+            "airdate": "1990-11-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 736,
+            "invalid_count": null
+        },
+        {
+            "id": 25659,
+            "answer": "an ostrich",
+            "question": "It'll run if there's danger, or, if cornered, kick out, but will not as legend says bury its head",
+            "value": 200,
+            "airdate": "1990-11-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 736,
+            "invalid_count": null
+        },
+        {
+            "id": 25665,
+            "answer": "a beak",
+            "question": "Of all the toucans, the toco has the biggest one of these",
+            "value": 300,
+            "airdate": "1990-11-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 736,
+            "invalid_count": null
+        },
+        {
+            "id": 25671,
+            "answer": "humus",
+            "question": "Mor \u0026 mull are 2 types of this black decayed organic matter in soil",
+            "value": 400,
+            "airdate": "1990-11-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 736,
+            "invalid_count": null
+        },
+        {
+            "id": 25677,
+            "answer": "a forget-me-not",
+            "question": "Legend says this flower's name comes from the last words of a knight who drowned picking one for his lady",
+            "value": 500,
+            "airdate": "1990-11-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 736,
+            "invalid_count": null
+        },
+        {
+            "id": 26933,
+            "answer": "algae",
+            "question": "Pond scum \u0026 most seaweed are forms of this simple plant",
+            "value": 100,
+            "airdate": "1992-07-07T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6783,
+            "invalid_count": null
+        },
+        {
+            "id": 26939,
+            "answer": "a dandelion",
+            "question": "When mature, the yellow flower on this lawn weed turns to fluff \u0026 is blown away by the wind",
+            "value": 200,
+            "airdate": "1992-07-07T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6783,
+            "invalid_count": null
+        },
+        {
+            "id": 27113,
+            "answer": "lizards",
+            "question": "Some of the fanciest of these reptiles are beaded, horned, or frilled",
+            "value": 100,
+            "airdate": "1992-05-29T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3728,
+            "invalid_count": null
+        },
+        {
+            "id": 27119,
+            "answer": "hounds",
+            "question": "The AKC could tell that Afghans \u0026 Salukis belong to this dog group",
+            "value": 200,
+            "airdate": "1992-05-29T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3728,
+            "invalid_count": null
+        },
+        {
+            "id": 27125,
+            "answer": "a bird",
+            "question": "The oxpecker, which is this type of animal, likes to ride on the backs of giraffes",
+            "value": 300,
+            "airdate": "1992-05-29T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3728,
+            "invalid_count": null
+        },
+        {
+            "id": 27131,
+            "answer": "a gazelle",
+            "question": "The Dorcas type of this graceful antelope is one of the smallest; it's barely 2 feet tall",
+            "value": 400,
+            "airdate": "1992-05-29T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3728,
+            "invalid_count": null
+        },
+        {
+            "id": 27137,
+            "answer": "the cheetah",
+            "question": "This spotted cat is also known as the hunting leopard",
+            "value": 500,
+            "airdate": "1992-05-29T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3728,
+            "invalid_count": null
+        },
+        {
+            "id": 26951,
+            "answer": "the epidermis",
+            "question": "In most invertebrates \u0026 young plants, this outer layer of skin is only 1 cell thick",
+            "value": 400,
+            "airdate": "1992-07-07T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6783,
+            "invalid_count": null
+        },
+        {
+            "id": 26957,
+            "answer": "oak",
+            "question": "The majority of the world's cork comes from an evergreen species of this stately tree",
+            "value": 500,
+            "airdate": "1992-07-07T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6783,
+            "invalid_count": null
+        },
+        {
+            "id": 32753,
+            "answer": "a bee",
+            "question": "More flowers are pollinated by this insect than by any other",
+            "value": 100,
+            "airdate": "1992-11-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 5839,
+            "invalid_count": null
+        },
+        {
+            "id": 32759,
+            "answer": "a vampire",
+            "question": "This small, New World bat is known to drink about 1 tbs. of blood each day, about half its weight",
+            "value": 200,
+            "airdate": "1992-11-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 5839,
+            "invalid_count": null
+        },
+        {
+            "id": 32765,
+            "answer": "a blowhole",
+            "question": "Rather than a nose, a whale breathes through 1 or 2 of these nostrils at the top of its head",
+            "value": 300,
+            "airdate": "1992-11-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 5839,
+            "invalid_count": null
+        },
+        {
+            "id": 32771,
+            "answer": "the husk",
+            "question": "They're the leaves that enclose \u0026 protect an ear of corn",
+            "value": 400,
+            "airdate": "1992-11-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 5839,
+            "invalid_count": null
+        },
+        {
+            "id": 32777,
+            "answer": "the sequoia",
+            "question": "The giant species of this tree is also known as the Sierra Redwood",
+            "value": 500,
+            "airdate": "1992-11-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 5839,
+            "invalid_count": null
+        },
+        {
+            "id": 32894,
+            "answer": "mosses",
+            "question": "These plants, especially Sphagnum, are the main vegetation of boggy regions",
+            "value": 400,
+            "airdate": "1992-11-18T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 343,
+            "invalid_count": null
+        },
+        {
+            "id": 32900,
+            "answer": "Algae",
+            "question": "Lichens, plants that grow on rocks, are made up of two types of organisms: a fungus \u0026 this",
+            "value": 500,
+            "airdate": "1992-11-18T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 343,
+            "invalid_count": null
+        },
+        {
+            "id": 34144,
+            "answer": "the pine",
+            "question": "The Douglas fir is not a true fir; it belongs to this evergreen family",
+            "value": 500,
+            "airdate": "1994-05-23T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3050,
+            "invalid_count": null
+        },
+        {
+            "id": 32876,
+            "answer": "Garter Snake",
+            "question": "Small, harmless \u0026 varying in color from green to black, it's the most common North American snake",
+            "value": 100,
+            "airdate": "1992-11-18T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 343,
+            "invalid_count": null
+        },
+        {
+            "id": 32882,
+            "answer": "Roll up into a ball",
+            "question": "Like some armadillos, the pangolin does this when attacked",
+            "value": 200,
+            "airdate": "1992-11-18T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 343,
+            "invalid_count": null
+        },
+        {
+            "id": 32888,
+            "answer": "Saguaro",
+            "question": "These largest cacti don't develop their first branches until about age 75",
+            "value": 300,
+            "airdate": "1992-11-18T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 343,
+            "invalid_count": null
+        },
+        {
+            "id": 33520,
+            "answer": "the giraffe",
+            "question": "In order to drink, it spreads its front legs, then lowers its head about 15 feet to the water",
+            "value": 100,
+            "airdate": "1992-09-28T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2572,
+            "invalid_count": null
+        },
+        {
+            "id": 33526,
+            "answer": "a minnow",
+            "question": "While most species of this live bait fish are less than 6\" long, the Indian mahseer can be 9' long",
+            "value": 200,
+            "airdate": "1992-09-28T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2572,
+            "invalid_count": null
+        },
+        {
+            "id": 33532,
+            "answer": "a fly",
+            "question": "A greenbottle is this type of insect",
+            "value": 300,
+            "airdate": "1992-09-28T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2572,
+            "invalid_count": null
+        },
+        {
+            "id": 33538,
+            "answer": "a bear",
+            "question": "Varieties of these mammals include brown, black, sun \u0026 spectacled",
+            "value": 400,
+            "airdate": "1992-09-28T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2572,
+            "invalid_count": null
+        },
+        {
+            "id": 33544,
+            "answer": "Guinea",
+            "question": "The fowl with this name is native to Africa; the \"pig\", to South America",
+            "value": 500,
+            "airdate": "1992-09-28T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2572,
+            "invalid_count": null
+        },
+        {
+            "id": 34120,
+            "answer": "potatoes",
+            "question": "In 1845 the fungus disease phytophthora infestans rotted these vegetables all over Europe",
+            "value": 100,
+            "airdate": "1994-05-23T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3050,
+            "invalid_count": null
+        },
+        {
+            "id": 34126,
+            "answer": "eyes",
+            "question": "To aid its nocturnal habits, these facial features on a tarsier are each as big as its brain",
+            "value": 200,
+            "airdate": "1994-05-23T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3050,
+            "invalid_count": null
+        },
+        {
+            "id": 34132,
+            "answer": "six",
+            "question": "Pick up a walking stick \u0026 you'll see that it has this many legs",
+            "value": 300,
+            "airdate": "1994-05-23T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3050,
+            "invalid_count": null
+        },
+        {
+            "id": 34138,
+            "answer": "the pelican",
+            "question": "The cormorant is related to this \"pouched\" creature",
+            "value": 400,
+            "airdate": "1994-05-23T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3050,
+            "invalid_count": null
+        },
+        {
+            "id": 34300,
+            "answer": "beet",
+            "question": "About 1/3 of the world's sugar comes from a type of this vegetable",
+            "value": 100,
+            "airdate": "1994-05-09T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6363,
+            "invalid_count": null
+        },
+        {
+            "id": 34306,
+            "answer": "slugs",
+            "question": "In general gastropods with a shell are called snails \u0026 those without are called these",
+            "value": 200,
+            "airdate": "1994-05-09T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6363,
+            "invalid_count": null
+        },
+        {
+            "id": 34312,
+            "answer": "banana",
+            "question": "Widespread in Central \u0026 South America, Panama disease affects the leaves \u0026 shoots of this fruit plant",
+            "value": 300,
+            "airdate": "1994-05-09T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6363,
+            "invalid_count": null
+        },
+        {
+            "id": 34318,
+            "answer": "starfish",
+            "question": "These sea creatures make up the animal class asteroidea",
+            "value": null,
+            "airdate": "1994-05-09T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6363,
+            "invalid_count": null
+        },
+        {
+            "id": 34324,
+            "answer": "flower",
+            "question": "In nature \u0026 in \"The Guinness Book\", the Rafflesia is the world's largest of these",
+            "value": 500,
+            "airdate": "1994-05-09T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6363,
+            "invalid_count": null
+        },
+        {
+            "id": 34751,
+            "answer": "the leaves",
+            "question": "Growing up to 65 feet these parts of a raffia palm are the longest on any plant",
+            "value": 100,
+            "airdate": "1994-02-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6769,
+            "invalid_count": null
+        },
+        {
+            "id": 34757,
+            "answer": "pollination",
+            "question": "Among birds, hummingbirds are considered the most important in carrying out this process between plants",
+            "value": 200,
+            "airdate": "1994-02-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6769,
+            "invalid_count": null
+        },
+        {
+            "id": 34763,
+            "answer": "coal",
+            "question": "Developed from buried peat deposits, lignite is the first stage in the formation of this fuel",
+            "value": null,
+            "airdate": "1994-02-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6769,
+            "invalid_count": null
+        },
+        {
+            "id": 34769,
+            "answer": "the mallard",
+            "question": "Most breeds of domestic duck are descended from this common wild variety",
+            "value": 400,
+            "airdate": "1994-02-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6769,
+            "invalid_count": null
+        },
+        {
+            "id": 34775,
+            "answer": "the beetle",
+            "question": "While weevils are a destructive type of this insect, the ladybird is considered beneficial",
+            "value": 500,
+            "airdate": "1994-02-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6769,
+            "invalid_count": null
+        },
+        {
+            "id": 35620,
+            "answer": "Flamingo",
+            "question": "If this tall tropical bird stops eating certain algae, its pinkish feathers will turn white",
+            "value": 100,
+            "airdate": "1993-11-29T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 148,
+            "invalid_count": null
+        },
+        {
+            "id": 35626,
+            "answer": "barnacles",
+            "question": "These crustaceans that cling to ships \u0026 wharves also attach themselves to whales",
+            "value": 200,
+            "airdate": "1993-11-29T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 148,
+            "invalid_count": null
+        },
+        {
+            "id": 35632,
+            "answer": "Host",
+            "question": "It's the term for the organism on which a parasite lives \u0026 feeds",
+            "value": 300,
+            "airdate": "1993-11-29T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 148,
+            "invalid_count": null
+        },
+        {
+            "id": 35638,
+            "answer": "Stamen",
+            "question": "Made up of a filament \u0026 anther, this male organ of a flower varies in number from zero to hundreds",
+            "value": 400,
+            "airdate": "1993-11-29T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 148,
+            "invalid_count": null
+        },
+        {
+            "id": 35644,
+            "answer": "Salamander",
+            "question": "It's any tailed amphibian,including the newt",
+            "value": 500,
+            "airdate": "1993-11-29T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 148,
+            "invalid_count": null
+        },
+        {
+            "id": 37673,
+            "answer": "needles",
+            "question": "Soft pines, such as the white pine, have 5 of these unique leaves in a cluster; hard pines have 2 or 3",
+            "value": 100,
+            "airdate": "1995-04-03T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6038,
+            "invalid_count": null
+        },
+        {
+            "id": 37679,
+            "answer": "tongue",
+            "question": "The African clawed frog is unusual because it has claws to help catch prey rather than this organ",
+            "value": 200,
+            "airdate": "1995-04-03T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6038,
+            "invalid_count": null
+        },
+        {
+            "id": 37685,
+            "answer": "wasp",
+            "question": "The yellow jacket is a social one of these insects; the cicada killer is a solitary one",
+            "value": 300,
+            "airdate": "1995-04-03T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6038,
+            "invalid_count": null
+        },
+        {
+            "id": 37691,
+            "answer": "prickly pear",
+            "question": "The Indian fig is one of the more common types of this cactus fruit",
+            "value": 400,
+            "airdate": "1995-04-03T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6038,
+            "invalid_count": null
+        },
+        {
+            "id": 37697,
+            "answer": "limestone",
+            "question": "Coral is made of this substance secreted by polyps as an external skeleton",
+            "value": 500,
+            "airdate": "1995-04-03T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6038,
+            "invalid_count": null
+        },
+        {
+            "id": 38769,
+            "answer": "kudzu",
+            "question": "In the South, buildings have been engulfed \u0026 trees have been smothered by this Oriental vine gone wild",
+            "value": 500,
+            "airdate": "1994-11-17T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 302,
+            "invalid_count": null
+        },
+        {
+            "id": 43845,
+            "answer": "the redwood",
+            "question": "Native to California, this giant sequoia relative is the tallest U.S. tree",
+            "value": 100,
+            "airdate": "1995-10-05T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6654,
+            "invalid_count": null
+        },
+        {
+            "id": 38745,
+            "answer": "sand dunes",
+            "question": "Safes, a type of these desert formations, are often many miles long \u0026 several hundred feet high",
+            "value": 100,
+            "airdate": "1994-11-17T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 302,
+            "invalid_count": null
+        },
+        {
+            "id": 38751,
+            "answer": "bats",
+            "question": "Sausage trees, found in Africa, are pollinated by these flying mammals",
+            "value": 200,
+            "airdate": "1994-11-17T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 302,
+            "invalid_count": null
+        },
+        {
+            "id": 38757,
+            "answer": "saguaro",
+            "question": "This largest U.S. cactus can weigh as much as 10 tons",
+            "value": 300,
+            "airdate": "1994-11-17T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 302,
+            "invalid_count": null
+        },
+        {
+            "id": 38763,
+            "answer": "snails",
+            "question": "Often found clinging to rocks, limpets are a type of this mollusk",
+            "value": 400,
+            "airdate": "1994-11-17T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 302,
+            "invalid_count": null
+        },
+        {
+            "id": 42584,
+            "answer": "henna",
+            "question": "The scented flowers of this shrub are used in perfume \u0026 its reddish dye is used as a hair coloring",
+            "value": 100,
+            "airdate": "1995-12-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7125,
+            "invalid_count": null
+        },
+        {
+            "id": 42590,
+            "answer": "a tarantula",
+            "question": "With its legs spread out, this largest spider can be as large as a dinner plate",
+            "value": 200,
+            "airdate": "1995-12-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7125,
+            "invalid_count": null
+        },
+        {
+            "id": 42596,
+            "answer": "lava",
+            "question": "Usually black in color, the glass known as obsidian forms when this cools rapidly",
+            "value": 300,
+            "airdate": "1995-12-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7125,
+            "invalid_count": null
+        },
+        {
+            "id": 42602,
+            "answer": "the honey bee",
+            "question": "Encarta calls it \"the most economically valuable of all insects\"",
+            "value": 400,
+            "airdate": "1995-12-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7125,
+            "invalid_count": null
+        },
+        {
+            "id": 42608,
+            "answer": "the emu",
+            "question": "This large, flightless bird of Australia lays dark green eggs",
+            "value": null,
+            "airdate": "1995-12-15T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 7125,
+            "invalid_count": null
+        },
+        {
+            "id": 43869,
+            "answer": "the cuttlefish",
+            "question": "Sepia officinalis is the scientific name of this creature that secretes sepia",
+            "value": 500,
+            "airdate": "1995-10-05T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6654,
+            "invalid_count": null
+        },
+        {
+            "id": 43851,
+            "answer": "preening",
+            "question": "Most birds begin this grooming process by spreading an oil through their feathers",
+            "value": 200,
+            "airdate": "1995-10-05T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6654,
+            "invalid_count": null
+        },
+        {
+            "id": 43857,
+            "answer": "graphite",
+            "question": "Like diamond, this soft black mineral is made of pure carbon, but with a different crystal structure",
+            "value": 300,
+            "airdate": "1995-10-05T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6654,
+            "invalid_count": null
+        },
+        {
+            "id": 43863,
+            "answer": "an atoll",
+            "question": "Coral reefs ware of 3 types: fringing, barrier \u0026 this circular type that forms an island around a lagoon",
+            "value": 400,
+            "airdate": "1995-10-05T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6654,
+            "invalid_count": null
+        },
+        {
+            "id": 44357,
+            "answer": "a starfish",
+            "question": "If one of these spiny, 5-armed sea creatures is cut in half, each part may regenerate",
+            "value": 200,
+            "airdate": "1995-09-12T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6642,
+            "invalid_count": null
+        },
+        {
+            "id": 44351,
+            "answer": "a mongoose",
+            "question": "Unlike other species of these carnivores, the meerkat doesn't have a reputation for killing snakes",
+            "value": 100,
+            "airdate": "1995-09-12T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6642,
+            "invalid_count": null
+        },
+        {
+            "id": 44363,
+            "answer": "mushroom",
+            "question": "The destroying angel is a deadly type of this fungus",
+            "value": 300,
+            "airdate": "1995-09-12T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6642,
+            "invalid_count": null
+        },
+        {
+            "id": 44369,
+            "answer": "elm",
+            "question": "The slimy inner bark of this \"sljppery\" tree was once used to relieve throat ailments",
+            "value": 400,
+            "airdate": "1995-09-12T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6642,
+            "invalid_count": null
+        },
+        {
+            "id": 44375,
+            "answer": "buffalo (bison)",
+            "question": "Now almost extinct, the wisent is a European species of this oxlike North American mammal",
+            "value": 500,
+            "airdate": "1995-09-12T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 6642,
+            "invalid_count": null
+        },
+        {
+            "id": 45789,
+            "answer": "Oil",
+            "question": "The safflower is widely cultivated for its dye, \u0026 for this product obtained from its seeds",
+            "value": 100,
+            "airdate": "1997-05-22T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1476,
+            "invalid_count": null
+        },
+        {
+            "id": 45795,
+            "answer": "Wind",
+            "question": "Rather than by birds or bees, coniferous trees are dependent on this for pollination",
+            "value": 200,
+            "airdate": "1997-05-22T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1476,
+            "invalid_count": null
+        },
+        {
+            "id": 45801,
+            "answer": "Cartilage",
+            "question": "Instead of bones, a shark's skeleton is made up of this material",
+            "value": 300,
+            "airdate": "1997-05-22T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1476,
+            "invalid_count": null
+        },
+        {
+            "id": 45807,
+            "answer": "Cumulonimbus",
+            "question": "The heaviest rainfall comes from this type of cloud, also called a thunderhead",
+            "value": 400,
+            "airdate": "1997-05-22T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1476,
+            "invalid_count": null
+        },
+        {
+            "id": 45813,
+            "answer": "Snails",
+            "question": "Whelks \u0026 periwinkles are marine varieties of this gastropod",
+            "value": 500,
+            "airdate": "1997-05-22T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1476,
+            "invalid_count": null
+        },
+        {
+            "id": 47722,
+            "answer": "ostrich",
+            "question": "This largest living bird may live 70 years",
+            "value": 100,
+            "airdate": "1997-02-17T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 220,
+            "invalid_count": null
+        },
+        {
+            "id": 47728,
+            "answer": "raccoon",
+            "question": "Species of this \"masked\" mammal include the North American \u0026 the crab-eating",
+            "value": 200,
+            "airdate": "1997-02-17T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 220,
+            "invalid_count": null
+        },
+        {
+            "id": 47734,
+            "answer": "Madagascar",
+            "question": "Most of the world's lemurs live on this island off Africa's east coast",
+            "value": 300,
+            "airdate": "1997-02-17T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 220,
+            "invalid_count": null
+        },
+        {
+            "id": 47740,
+            "answer": "eagle",
+            "question": "The Harpy type of this bird lives in South American rain forests \u0026 preys on monkeys \u0026 other mammals",
+            "value": 400,
+            "airdate": "1997-02-17T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 220,
+            "invalid_count": null
+        },
+        {
+            "id": 47746,
+            "answer": "sheep",
+            "question": "The Marco Polo variety of this mammal is so named because Marco Polo was the first to describe it",
+            "value": 500,
+            "airdate": "1997-02-17T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 220,
+            "invalid_count": null
+        },
+        {
+            "id": 48852,
+            "answer": "Funnel",
+            "question": "A tornado is typically a tube -- or this-shaped cloud hanging from from a cumulonimbus cloud",
+            "value": 100,
+            "airdate": "1996-12-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 611,
+            "invalid_count": null
+        },
+        {
+            "id": 48858,
+            "answer": "Molting",
+            "question": "Adult amphibians go through this skin-shedding process several times a year",
+            "value": 200,
+            "airdate": "1996-12-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 611,
+            "invalid_count": null
+        },
+        {
+            "id": 48864,
+            "answer": "Vanilla",
+            "question": "This flavoring is the only edible product produced by an orchid plant",
+            "value": 300,
+            "airdate": "1996-12-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 611,
+            "invalid_count": null
+        },
+        {
+            "id": 48870,
+            "answer": "Chrysalis",
+            "question": "From the Latin for \"golden\", it's another name for the pupa or cocoon of a butterfly",
+            "value": 400,
+            "airdate": "1996-12-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 611,
+            "invalid_count": null
+        },
+        {
+            "id": 48876,
+            "answer": "Transpiration",
+            "question": "In botany it's the process by which plants lose water vapor through their leaves",
+            "value": 500,
+            "airdate": "1996-12-24T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 611,
+            "invalid_count": null
+        },
+        {
+            "id": 49678,
+            "answer": "wings",
+            "question": "Most insects have 2 pairs of these attached to their backs",
+            "value": 100,
+            "airdate": "1996-11-14T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3011,
+            "invalid_count": null
+        },
+        {
+            "id": 49683,
+            "answer": "talons",
+            "question": "Eagles usually kill their prey with these body parts",
+            "value": 200,
+            "airdate": "1996-11-14T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3011,
+            "invalid_count": null
+        },
+        {
+            "id": 49687,
+            "answer": "chlorophyll",
+            "question": "A lack of this green pigment is one thing that separates fungi from other plants",
+            "value": 300,
+            "airdate": "1996-11-14T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3011,
+            "invalid_count": null
+        },
+        {
+            "id": 49691,
+            "answer": "tongue",
+            "question": "A chameleon can use this organ, almost as long as its body, to catch birds",
+            "value": 400,
+            "airdate": "1996-11-14T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3011,
+            "invalid_count": null
+        },
+        {
+            "id": 49695,
+            "answer": "turtle",
+            "question": "The beak-to-tail measurement of the leatherback species of this sea creature can run about 7 feet",
+            "value": 500,
+            "airdate": "1996-11-14T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3011,
+            "invalid_count": null
+        },
+        {
+            "id": 50514,
+            "answer": "bamboo",
+            "question": "Silica derived from this giant grass is used in making an Oriental medicine called tabasheer",
+            "value": 300,
+            "airdate": "1996-09-19T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3872,
+            "invalid_count": null
+        },
+        {
+            "id": 49624,
+            "answer": "hummingbirds",
+            "question": "Although these smallest birds are known for drinking nectar, they eat insects as well",
+            "value": 100,
+            "airdate": "1996-11-18T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 383,
+            "invalid_count": null
+        },
+        {
+            "id": 49630,
+            "answer": "boll weevil",
+            "question": "This cotton pest 1st reached the U.S. at Brownsville, TX around 1892",
+            "value": 200,
+            "airdate": "1996-11-18T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 383,
+            "invalid_count": null
+        },
+        {
+            "id": 49636,
+            "answer": "pine",
+            "question": "White, bristlecone \u0026 pinon are groups of the soft kind of this tree",
+            "value": 300,
+            "airdate": "1996-11-18T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 383,
+            "invalid_count": null
+        },
+        {
+            "id": 49642,
+            "answer": "nightshade",
+            "question": "Bell peppers, tobacco, \u0026 henbane are members of this sometimes deadly plant family",
+            "value": 400,
+            "airdate": "1996-11-18T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 383,
+            "invalid_count": null
+        },
+        {
+            "id": 49648,
+            "answer": "Columbine",
+            "question": "This Rocky Mountain flower is the state flower of Colorado",
+            "value": 500,
+            "airdate": "1996-11-18T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 383,
+            "invalid_count": null
+        },
+        {
+            "id": 50502,
+            "answer": "chlorophyll",
+            "question": "Leaves change color in autumn due to a breakdown of this green pigment",
+            "value": 100,
+            "airdate": "1996-09-19T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3872,
+            "invalid_count": null
+        },
+        {
+            "id": 50508,
+            "answer": "a kiwi",
+            "question": "This flightless bird of New Zealand shares its name with a fruit",
+            "value": 200,
+            "airdate": "1996-09-19T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3872,
+            "invalid_count": null
+        },
+        {
+            "id": 50520,
+            "answer": "a tuber",
+            "question": "The potato is an example of this swollen part of a stem that grows underground",
+            "value": 400,
+            "airdate": "1996-09-19T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3872,
+            "invalid_count": null
+        },
+        {
+            "id": 50526,
+            "answer": "the honeybee",
+            "question": "Apis Mellifera is the scientific name for this insect",
+            "value": 500,
+            "airdate": "1996-09-19T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 3872,
+            "invalid_count": null
+        },
+        {
+            "id": 50799,
+            "answer": "pheromones",
+            "question": "These chemicals secreted by some animals may signal alarm or attract a member of the opposite sex",
+            "value": null,
+            "airdate": "1996-09-05T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2013,
+            "invalid_count": null
+        },
+        {
+            "id": 50775,
+            "answer": "sharks",
+            "question": "About 25 of the more than 250 species of these are dangerous to man, with the great white topping the list",
+            "value": 100,
+            "airdate": "1996-09-05T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2013,
+            "invalid_count": null
+        },
+        {
+            "id": 50781,
+            "answer": "a giraffe",
+            "question": "A 25-pound heart helps pump  the blood to its head, 15 feet off the ground",
+            "value": 200,
+            "airdate": "1996-09-05T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2013,
+            "invalid_count": null
+        },
+        {
+            "id": 50787,
+            "answer": "marsupials",
+            "question": "Tiger Cats \u0026 Numbats are classified as these animals, from the Latin for \"pouch\"",
+            "value": 300,
+            "airdate": "1996-09-05T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2013,
+            "invalid_count": null
+        },
+        {
+            "id": 50793,
+            "answer": "migration",
+            "question": "This seasonal activity of the blue-winged teal takes it from southern Canada to northern South America",
+            "value": 400,
+            "airdate": "1996-09-05T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 2013,
+            "invalid_count": null
+        },
+        {
+            "id": 53666,
+            "answer": "Snake",
+            "question": "A puffer is a fish \u0026 a puff adder is a poisonous type of this",
+            "value": 100,
+            "airdate": "1998-03-09T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1200,
+            "invalid_count": null
+        },
+        {
+            "id": 53672,
+            "answer": "Weed",
+            "question": "Very simply, it's any plant, such as crabgrass, that grows where it's not wanted",
+            "value": 200,
+            "airdate": "1998-03-09T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1200,
+            "invalid_count": null
+        },
+        {
+            "id": 53678,
+            "answer": "Newts",
+            "question": "The name of these brightly colored salamanders may remind you of a certain House speaker",
+            "value": 300,
+            "airdate": "1998-03-09T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1200,
+            "invalid_count": null
+        },
+        {
+            "id": 53684,
+            "answer": "Legume",
+            "question": "Botanically, a peanut isn't a nut but one of these, like a soybean",
+            "value": 400,
+            "airdate": "1998-03-09T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1200,
+            "invalid_count": null
+        },
+        {
+            "id": 53690,
+            "answer": "Cheetahs",
+            "question": "These creatures, seen here, \"never prosper\", but they do run quickly",
+            "value": 500,
+            "airdate": "1998-03-09T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1200,
+            "invalid_count": null
+        },
+        {
+            "id": 56688,
+            "answer": "weaning",
+            "question": "Many mammals are able to eat solid food well before this process of ceasing to suckle",
+            "value": 100,
+            "airdate": "1997-10-13T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1237,
+            "invalid_count": null
+        },
+        {
+            "id": 53783,
+            "answer": "Wings",
+            "question": "Like other vertebrates, birds have 2 hind limbs \u0026 2 forelimbs, the latter being these",
+            "value": 100,
+            "airdate": "1998-03-03T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 199,
+            "invalid_count": null
+        },
+        {
+            "id": 53789,
+            "answer": "Crab",
+            "question": "The largest crustacean is the giant spider type of this aquatic creature whose claws can be 10' apart",
+            "value": 200,
+            "airdate": "1998-03-03T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 199,
+            "invalid_count": null
+        },
+        {
+            "id": 53795,
+            "answer": "Flies",
+            "question": "Fruit types of these insects may be named for the fruit they infest, such as olives or cherries",
+            "value": 300,
+            "airdate": "1998-03-03T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 199,
+            "invalid_count": null
+        },
+        {
+            "id": 53801,
+            "answer": "Primrose",
+            "question": "From the Latin for \"first\", this early-blooming flower contains another flower in its name",
+            "value": 400,
+            "airdate": "1998-03-03T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 199,
+            "invalid_count": null
+        },
+        {
+            "id": 53807,
+            "answer": "Frogs",
+            "question": "The poisonous marine toad preys on these animals, its companions in the order Anura",
+            "value": 500,
+            "airdate": "1998-03-03T20:00:00.000Z",
+            "category_id": 5,
+            "game_id": 199,
+            "invalid_count": null
+        },
+        {
+            "id": 56693,
+            "answer": "bisexuality",
+            "question": "In plants, hermaphroditism is a synonym for this, which Woody Allen said doubles chances for dates",
+            "value": 200,
+            "airdate": "1997-10-13T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1237,
+            "invalid_count": null
+        },
+        {
+            "id": 56698,
+            "answer": "bumblebees",
+            "question": "The major groups of social bees are honeybees, tropical stingless bees \u0026 these bees",
+            "value": 300,
+            "airdate": "1997-10-13T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1237,
+            "invalid_count": null
+        },
+        {
+            "id": 56703,
+            "answer": "eagles",
+            "question": "As opposed to the bald type, the booted types of this bird of prey are named for feathers on their legs",
+            "value": 400,
+            "airdate": "1997-10-13T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1237,
+            "invalid_count": null
+        },
+        {
+            "id": 56708,
+            "answer": "weasels",
+            "question": "These creatures, including the ermine, are named for killing more prey than they can eat",
+            "value": 500,
+            "airdate": "1997-10-13T19:00:00.000Z",
+            "category_id": 5,
+            "game_id": 1237,
+            "invalid_count": null
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+.header {
+    border-color: black;
+    background-color: rgb(2, 2, 69);
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 35px 0;
+    align-items: center;
+}
+
+.header__link {
+    color: white;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin-left: 80px;
+    text-transform: uppercase;
+}
+
+.header__link:hover{
+    color: yellow;
+}
+
+.score {
+    color: white;
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    display: flex;
+    align-items: ce;
+}
+
+.player {
+    margin-top: 8px;
+    color: white;
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.score-point {
+    color: yellow;
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.player_name {
+    color: yellow;
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin-left: 20px;
+}
