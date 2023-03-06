@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { shallowEqual, useDispatch, useSelector } from 'react-redux';
+import { useNavigate  } from 'react-router-dom';
 
 import ModalWindow from '../ModalWindow';
 import useOpen from '../../utils/useOpen'
@@ -12,6 +13,8 @@ const GameBoard = () => {
   const dispatch = useDispatch()
   const [cluesObject, setCluesObject] = useState({})
   const { open, handleOpen, handleClose } = useOpen()
+
+  const navigate = useNavigate();
 
   const { list,  isStarted } = useSelector((store) => ({
     list: store.board.list,
@@ -29,6 +32,7 @@ const GameBoard = () => {
   const handleGameAction = () => {
     if (isStarted) {
       dispatch(actions.setGameStart(false));
+      navigate('/login')
     } else {
       dispatch(actions.setGameStart(true));
     }

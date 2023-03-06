@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useLocation, useNavigate  } from 'react-router-dom';
+import { useNavigate  } from 'react-router-dom';
 import { shallowEqual, useDispatch, useSelector } from 'react-redux';
 
 import './Login.css';
@@ -7,7 +7,6 @@ import { actions } from '../../store/statistic/slice';
 
 const LogIn = () => {
 
-  const location = useLocation();
   const [name, setName] = useState('');
   const dispatch = useDispatch();
 

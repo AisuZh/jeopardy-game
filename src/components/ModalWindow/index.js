@@ -71,7 +71,7 @@ function ModalWindow({ open, handleClose, data, setData }) {
       ariaHideApp={false}
     >
       <div className='countdown__wrapper'>
-        <Countdown className='countdown' onComplete={closeModal} date={Date.now() + 6000} />
+        <Countdown className='countdown' onComplete={closeModal} date={Date.now() + 60000} />
       </div>
       <div className='modal_question'>{data?.question}</div>
       <form className='modal_form' onSubmit={handleSubmit}>
