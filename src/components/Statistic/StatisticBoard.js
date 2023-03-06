@@ -1,7 +1,7 @@
 import React from 'react'
-import './StatisticBoard.css'
 import { useSelector, shallowEqual } from 'react-redux';
 
+import './StatisticBoard.css'
 
 const StatisticBoard = () => {
     const { userName, totalQuestion, correctAnswers, incorrectAnswers, totalScore } = useSelector((store) => ({

@@ -35,7 +35,8 @@ const parseList = (list) => list.map(({ data }) => {
 })
 
 const initialState = {
-   list: []
+   list: [],
+   isStarted: false
 }
 
 const boardSlice = createSlice({
@@ -45,7 +46,10 @@ const boardSlice = createSlice({
       getList(state, {payload}) {
         state.list = parseList(payload)
       },
-      changeToOpen(state, {payload}) {
+      setGameStart(state, {payload}) {
+        state.isStarted = payload
+      },
+      setToOpen(state, {payload}) {
         state.list = state.list.map((item, index) => {
           if(index === payload.index) {
             return {

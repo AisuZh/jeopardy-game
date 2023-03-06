@@ -8,6 +8,7 @@ import { actions } from '../store/board/slice';
 const GamePage = () => {
   const dispatch = useDispatch()
   const [gameBoards, setGameBoards] = useState([])
+  
   const list = useSelector((store) => store.board.list, shallowEqual);
 
 
@@ -36,7 +37,6 @@ const GamePage = () => {
       dispatch(actions.getList(gameBoards))
     }
   }, [gameBoards]);
-
 
   return (
     <GameBoard />

@@ -1,13 +1,17 @@
-import React, { useContext, useState } from 'react';
-import './Login.css';
-import { useLocation, Navigate  } from 'react-router-dom';
+import React, { useState } from 'react';
+import { useLocation, useNavigate  } from 'react-router-dom';
 import { shallowEqual, useDispatch, useSelector } from 'react-redux';
+
+import './Login.css';
 import { actions } from '../../store/statistic/slice';
 
 const LogIn = () => {
+
   const location = useLocation();
   const [name, setName] = useState('');
   const dispatch = useDispatch();
+
+  const navigate = useNavigate();
 
   const userName = useSelector((state) => state.statistic.userName, shallowEqual);
 
@@ -19,7 +23,9 @@ const LogIn = () => {
     event.preventDefault();
     dispatch(actions.setUserName(name));
     console.log(Boolean(userName))
-    if (Boolean(userName)) return <Navigate to="/game" />;
+    if (Boolean(userName)) {
+      navigate("/game")
+    };
   };
 
   return (

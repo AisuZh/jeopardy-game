@@ -1,8 +1,8 @@
-import React, { useEffect } from 'react'
-import './Header.css'
+import React from 'react'
 import { NavLink } from 'react-router-dom'
 import { shallowEqual, useSelector } from 'react-redux';
 
+import './Header.css'
 
 const Header = () => {
   const { userName,  totalScore } = useSelector((store) => ({

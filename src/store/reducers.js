@@ -1,4 +1,5 @@
 import { combineReducers } from "redux"
+
 import statistic from "./statistic/slice"
 import board from "./board/slice"
 

@@ -58,5 +58,5 @@
 }
 
 .game__btn:active {
-  backdrop-filter: none;
+  z-index: 100;
 }

@@ -6,47 +6,49 @@ import useOpen from '../../utils/useOpen'
 import { randomInRange } from '../../utils/helper'
 import './GamePage.css';
 import { actions } from '../../store/board/slice';
+import { actions as statisticActions } from '../../store/statistic/slice';
 
 const GameBoard = () => {
   const dispatch = useDispatch()
   const [cluesObject, setCluesObject] = useState({})
   const { open, handleOpen, handleClose } = useOpen()
-  const [isGameStarted, setIsGameStarted] = useState(false)
 
-
-  const list = useSelector((store) => store.board.list, shallowEqual);
-
+  const { list,  isStarted } = useSelector((store) => ({
+    list: store.board.list,
+    isStarted: store.board.isStarted
+  }), shallowEqual)
+  
   const onClick = (clues, counter, index) => {
     handleOpen()
-    dispatch(actions.changeToOpen({ id: counter.id, index }))
+    dispatch(actions.setToOpen({ id: counter.id, index }))
+    dispatch(statisticActions.setTotalQuestion());
     const cluesData = clues.filter((clue) => clue.value === counter.score)
     setCluesObject(cluesData[randomInRange(0, cluesData.length)])
   };
 
-  const handleGameStart = () => {
-    if (isGameStarted) {
-      setIsGameStarted(false);
-      dispatch(actions.resetBoard());
+  const handleGameAction = () => {
+    if (isStarted) {
+      dispatch(actions.setGameStart(false));
     } else {
-      setIsGameStarted(true);
+      dispatch(actions.setGameStart(true));
     }
   };
 
 
   return (
-    <div className={`game__page ${isGameStarted ? '' : 'blur'}`}>
+    <div className="game__page">
       <div className="container">
         <div className="board">
-          <div className="grid-container">
+          <div className={`grid-container ${isStarted ? '' : 'blur'}`}>
             {list.map((item, index) => (
               <>
                 <div key={index} className="grid-item">{item.title}</div>
                 {item.counters.map((counter, counterIndex) => (
                   <div
                     key={counterIndex}
-                    className={`grid-item ${isGameStarted ? '' : 'not-clickable'}`}
+                    className={`grid-item ${isStarted ? '' : 'not-clickable'}`}
                     role="presentation"
-                    onClick={() => isGameStarted && !counter.hasBeenOpened && onClick(item.clues, counter, index)}
+                    onClick={() => isStarted && !counter.hasBeenOpened && onClick(item.clues, counter, index)}
                   >
                     {!counter.hasBeenOpened && counter.score}
                   </div>
@@ -55,16 +57,13 @@ const GameBoard = () => {
             ))}
             <ModalWindow open={open} handleClose={handleClose} data={cluesObject} setData={setCluesObject} />
           </div>
-
           <button
             type="button"
-            className={`game__btn ${isGameStarted ? 'active' : ''}`}
-            onClick={handleGameStart}
+            className={`game__btn ${isStarted ? 'active' : ''}`}
+            onClick={handleGameAction}
           >
-            {isGameStarted ? 'End the game' : 'Start'}
+            {isStarted ? 'End the game' : 'Start'}
           </button>
-
-
         </div>
       </div>
     </div>

@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { shallowEqual, useDispatch, useSelector } from 'react-redux';
 import Modal from 'react-modal';
+import Countdown from "react-countdown";
 
 import { actions } from '../../store/statistic/slice';
 import './modal.css';
@@ -35,19 +36,23 @@ function ModalWindow({ open, handleClose, data, setData }) {
   const dispatch = useDispatch();
   const [answer, setAnswer] = useState('')
 
-  const { userName, totalQuestion, correctAnswers, incorrectAnswers, totalScore } = useSelector((store) => ({
-    userName: store.statistic.userName,
-    totalQuestion: store.statistic.totalQuestion,
-    correctAnswers: store.statistic.correctAnswers,
-    incorrectAnswers: store.statistic.incorrectAnswers,
-    totalScore: store.statistic.totalScore
-}), shallowEqual)
-  
+  const totalScore = useSelector((state) => state.statistic.totalScore, shallowEqual);
+
   const closeModal = () => {
     handleClose()
     setAnswer('') 
     setData({})
-  } 
+    dispatch(actions.setTotalScore(totalScore - data?.value));
+    dispatch(actions.setIncorrectAnswers());
+  }
+
+  useEffect(() => {
+    if (open) {
+      setTimeout(() => {
+        handleClose();
+      }, 6000);
+    }
+  }, [open]);
 
   const handleChange = (e) => setAnswer(e.target.value);
 
@@ -55,13 +60,15 @@ function ModalWindow({ open, handleClose, data, setData }) {
     e.preventDefault();
     handleClose()
     setAnswer('')
-    if(answer.toString().toLowerCase() === data.answer.toString().toLowerCase()) {
-      dispatch(actions.setTotalScore(totalScore + data.value));
+    if(answer.toString().toLowerCase() === data?.answer.toString().toLowerCase()) {
+      dispatch(actions.setTotalScore(totalScore + data?.value));
+      dispatch(actions.setCorrectAnswers());
     } else {
-      dispatch(actions.setTotalScore(totalScore - data.value));
+      dispatch(actions.setTotalScore(totalScore - data?.value));
+      dispatch(actions.setIncorrectAnswers());
     }
   }
-  
+
   return (
     <Modal
       isOpen={open}
@@ -71,10 +78,12 @@ function ModalWindow({ open, handleClose, data, setData }) {
       shouldCloseOnEsc={false}
       ariaHideApp={false}
     >
-      <button className='btn_close'  style={customStyles.closeButton} onClick={closeModal}>X</button>
-      <div className='modal_question'>{data.question}</div>
+      <div className='countdown__wrapper'>
+        <Countdown className='countdown' onComplete={closeModal} date={Date.now() + 6000} />
+      </div>
+      <div className='modal_question'>{data?.question}</div>
       <form className='modal_form' onSubmit={handleSubmit}>
-        <input 
+        <input
           type="text"
           id="answer"
           name="answer"
@@ -83,7 +92,7 @@ function ModalWindow({ open, handleClose, data, setData }) {
           placeholder="Type..."
           onChange={handleChange}
         />
-        <button type="submit"  className='btn_submit' >
+        <button type="submit" className='btn_submit' >
           submit
         </button>
       </form>
@@ -91,4 +100,4 @@ function ModalWindow({ open, handleClose, data, setData }) {
   );
 }
 
-export default ModalWindow
+export default ModalWindow;
