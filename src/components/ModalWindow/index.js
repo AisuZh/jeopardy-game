@@ -46,14 +46,6 @@ function ModalWindow({ open, handleClose, data, setData }) {
     dispatch(actions.setIncorrectAnswers());
   }
 
-  useEffect(() => {
-    if (open) {
-      setTimeout(() => {
-        handleClose();
-      }, 6000);
-    }
-  }, [open]);
-
   const handleChange = (e) => setAnswer(e.target.value);
 
   const handleSubmit = (e) => {
