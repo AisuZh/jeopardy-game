@@ -1,13 +1,13 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { shallowEqual, useDispatch, useSelector } from 'react-redux';
-import { useNavigate  } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 import ModalWindow from '../ModalWindow';
 import useOpen from '../../utils/useOpen'
 import { randomInRange } from '../../utils/helper'
-import './GamePage.css';
 import { actions } from '../../store/board/slice';
 import { actions as statisticActions } from '../../store/statistic/slice';
+import './GamePage.css';
 
 const GameBoard = () => {
   const dispatch = useDispatch()
@@ -16,11 +16,11 @@ const GameBoard = () => {
 
   const navigate = useNavigate();
 
-  const { list,  isStarted } = useSelector((store) => ({
+  const { list, isStarted } = useSelector((store) => ({
     list: store.board.list,
     isStarted: store.board.isStarted
   }), shallowEqual)
-  
+
   const onClick = (clues, counter, index) => {
     handleOpen()
     dispatch(actions.setToOpen({ id: counter.id, index }))
@@ -29,20 +29,30 @@ const GameBoard = () => {
     setCluesObject(cluesData[randomInRange(0, cluesData.length)])
   };
 
-  const handleGameAction = () => {
-    if (isStarted) {
-      dispatch(actions.setGameStart(false));
-      navigate('/login')
-    } else {
-      dispatch(actions.setGameStart(true));
-    }
+  const handleGameStart = () => {
+    dispatch(actions.setGameStart(true));
+
   };
 
+  const handleGameEnd = () => {
+    dispatch(actions.setGameStart(false));
+    dispatch(statisticActions.startNewGame());
+    dispatch(actions.resetGame());
+    navigate('/login');
+  };
+
+  const handleGameAction = () => {
+    if (isStarted) {
+      handleGameEnd();
+    } else {
+      handleGameStart();
+    }
+  };
 
   return (
     <div className="game__page">
       <div className="container">
-        <div className="board">
+        <div className="board-game">
           <div className={`grid-container ${isStarted ? '' : 'blur'}`}>
             {list.map((item, index) => (
               <>

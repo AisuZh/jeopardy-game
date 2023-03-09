@@ -87,6 +87,7 @@ function ModalWindow({ open, handleClose, data, setData }) {
         <button type="submit" className='btn_submit' >
           submit
         </button>
+        <p className='modal_answer'>answer: {data.answer}</p>
       </form>
     </Modal>
   );

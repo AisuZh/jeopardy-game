@@ -70,6 +70,14 @@ const boardSlice = createSlice({
           }
         })
       },
+      resetGame(state) {
+        state.isStarted = false;
+        state.list.forEach((item) => {
+          item.counters.forEach((counter) => {
+            counter.hasBeenOpened = false;
+          });
+        });
+      },
     }
 })
 

@@ -19,3 +19,7 @@ a {
   padding: 0 15px;
   max-width: 1220px;
 }
+
+li{
+  list-style: none;
+}

@@ -49,14 +49,12 @@
   opacity: 0.8;
 }
 
-.board {
-  height: calc(100vh - 132px);
+.board-game {
+  height: 100vh
 }
 
 .blur {
   filter: blur(3px);
 }
 
-.game__btn:active {
-  z-index: 100;
-}
+

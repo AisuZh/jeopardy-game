@@ -69,3 +69,9 @@
     font-weight: 500;
     color: rgb(53, 53, 112);
 }
+
+.modal_answer{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 13px;
+}
