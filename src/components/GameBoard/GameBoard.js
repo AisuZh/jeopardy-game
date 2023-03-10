@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { shallowEqual, useDispatch, useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 
@@ -31,7 +31,6 @@ const GameBoard = () => {
 
   const handleGameStart = () => {
     dispatch(actions.setGameStart(true));
-
   };
 
   const handleGameEnd = () => {
